@@ -5,11 +5,11 @@
         "id": 1,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/cosmetics/consiler.jpg",
-        "additionalImg": "/public/products/cosmetics/consiler1.jpg /public/products/cosmetics/consiler2.jpg /public/products/cosmetics/consiler3.jpg",
+        "img": "/products/cosmetics/consiler.jpg",
+        "additionalImg": "/products/cosmetics/consiler1.jpg /products/cosmetics/consiler2.jpg /products/cosmetics/consiler3.jpg",
         "type": "cosmetic",
         "descTitle": "БЕРЕЖНО ОЧИЩАЕТ НЕ ПЕРЕСУШИВАЯ КОЖУ$УВЛАЖНЯЕТ И ПИТАЕТ КОЖУ$ОБЛАДАЕТ СВЕЖИМ ЯГОДНЫМ АРОМАТОМ",
-        "descImg":"/public/products/cosmetics/consiler.jpg /public/products/cosmetics/consiler.jpg",
+        "descImg":"/products/cosmetics/consiler.jpg /public/products/cosmetics/consiler.jpg",
         "descImgSubtitle":"масло$масло какао"
     },
     {
@@ -18,7 +18,7 @@
         "id": 2,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/cosmetics/pomade.jpg",
+        "img": "/products/cosmetics/pomade.jpg",
         "type": "cosmetic"
     },
     {
@@ -27,7 +27,7 @@
         "id": 3,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/cosmetics/shadows.jpg",
+        "img": "/products/cosmetics/shadows.jpg",
         "type": "cosmetic"
     },
     {
@@ -36,7 +36,7 @@
         "id": 4,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/cosmetics/ink.jpg",
+        "img": "/products/cosmetics/ink.jpg",
         "type": "cosmetic"
     },
     {
@@ -45,7 +45,7 @@
         "id": 5,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/cream/cream1.jpg",
+        "img": "/products/cream/cream1.jpg",
         "type": "udodcosmetic"
     },
     {
@@ -54,7 +54,7 @@
         "id": 6,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"",
-        "img": "/public/products/cream/cream2.jpg",
+        "img": "/products/cream/cream2.jpg",
         "type": "udodcosmetic"
     },
     {
@@ -63,7 +63,7 @@
         "id": 7,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"",
-        "img": "/public/products/cream/cream3.jpg",
+        "img": "/products/cream/cream3.jpg",
         "type": "udodcosmetic"
     },
     {
@@ -72,7 +72,7 @@
         "id": 8,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"",
-        "img": "/public/products/scrub/scrub1.jpg",
+        "img": "/products/scrub/scrub1.jpg",
         "type": "scrub"
     },
     {
@@ -81,7 +81,7 @@
         "id": 9,
         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
         "collection":"new",
-        "img": "/public/products/scrub/scrub2.jpg",
+        "img": "/products/scrub/scrub2.jpg",
         "type": "scrub"
     }
     
